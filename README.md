@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luiz-santos134
 - 👀 I'm interested in learning more and more
-- 🌱 I’m currently learning C#, Python, C++, HTML,CSS e JS.
+- 🌱 I’m currently learning C#, Python, C++, C, HTML,CSS e JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? We can talk via my email: luizclaudiosantos134@gmail.com
 
