@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @Luiz-santos134
-- 👀 I'm interested in learning more and more
-- 🌱 I’m currently learning C#, Python, C++, C, HTML,CSS e JS.
-- 📫 How to reach me? We can talk via my email: luizclaudiosantos134@gmail.com
-- My Portifolio: https://portifolio-luizclaudio.netlify.app/
+## 👋 Oi, Eu sou o @Luiz-santos134
+ 👀 Sempre em busca de aprender mais e mais.
+ 
+ 🌱 Minhas tecnologias C#, Python, C++, C, HTML, CSS e JS.
+ 
+ 📫 Contate-me pelo meu email: luizclaudiosantos134@gmail.com
+ 
+ 📚 Meu Portifolio: https://portifolio-luizclaudio.netlify.app/
+ 
+   ## 
+   
+ <div style="display: inline_block">
+ <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ </div>
+ 
+   ## 
+<div> 
+   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <!---
 Luiz-santos134/Luiz-santos134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
