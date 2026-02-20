@@ -1,7 +1,7 @@
 ## 👋 Oi, Eu sou o @Luiz-santos134
  👀 Sempre em busca de aprender mais e mais.
  
- 🌱 Minhas tecnologias C#, Python, C++, C, HTML, CSS e JS.
+ 🌱 Minhas tecnologias JS, HTML, CSS, Python,  C#, C++, C.
  
  📫 Contate-me pelo meu email: luizclaudiosantos134@gmail.com
  
