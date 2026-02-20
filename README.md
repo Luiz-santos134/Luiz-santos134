@@ -1,11 +1,11 @@
 ## 👋 Oi, Eu sou o @Luiz-santos134
  👀 Sempre em busca de aprender mais e mais.
  
- 🌱 Minhas tecnologias JS, HTML, CSS, Python,  C#, C++, C.
- 
  📫 Contate-me pelo meu email: luizclaudiosantos134@gmail.com
  
  📚 Meu Portifolio: https://portifolio-luizclaudio.netlify.app/
+ 
+ 🌱 Minhas tecnologias JS, HTML, CSS, Python,  C#, C++, C.
  
    ## 
    
