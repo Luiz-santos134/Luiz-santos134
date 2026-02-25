@@ -5,7 +5,7 @@
  
  📚 Meu Portifolio: https://portifolio-luizclaudio.netlify.app/
  
- 🌱 Minhas tecnologias JS, HTML, CSS, Python,  C#, C++, C.
+ 🌱 Minhas tecnologias JS, HTML, CSS, Python, PHP, React, C#, C++, C.
  
    ## 
    
