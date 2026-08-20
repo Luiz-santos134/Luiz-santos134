@@ -4,6 +4,8 @@
  📫 Contate-me pelo meu email: luizclaudiosantos134@gmail.com
  
  📚 Meu Portifolio: https://portifolio-luizclaudio.netlify.app/
+
+ 💻 Meu Dev.to -> https://dev.to/luiz_santos
  
  🌱 Minhas tecnologias JS, HTML, CSS, React, Python, PHP, C#, C++, C.
  
