@@ -60,7 +60,7 @@ Formação com conhecimentos em programação, desenvolvimento web, banco de dad
 
 Também possuo certificados e cursos complementares nas áreas de **desenvolvimento, tecnologia, design e criação de jogos**.
 
-📁 [**Confira meus certificados e formações**](https://github.com/Luiz-santos134/certificados)
+📁 [**Confira meus certificados e formações**]([https://github.com/Luiz-santos134/certificados](https://github.com/Luiz-santos134/Certificacoes))
 
 ---
 
